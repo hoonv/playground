@@ -1,0 +1,15 @@
+{
+  "originHash" : "eb51c3e15e0130ea7ee9e9b874c9c78a9031f99fc7cbf279f70edd0d1c23c84f",
+  "pins" : [
+    {
+      "identity" : "bigint?tab=readme-ov-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/attaswift/BigInt?tab=readme-ov-file",
+      "state" : {
+        "revision" : "2bbb8a7addeb79ceccf45acac9f6e2a07cbe9680",
+        "version" : "5.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
