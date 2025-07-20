@@ -1,0 +1,24 @@
+{
+  "originHash" : "4c1388130fe3494d3ea0bc7f6281939791eb7b14f79a9e5f9df47b5e6c1804fe",
+  "pins" : [
+    {
+      "identity" : "bigint?tab=readme-ov-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/attaswift/BigInt?tab=readme-ov-file",
+      "state" : {
+        "revision" : "2bbb8a7addeb79ceccf45acac9f6e2a07cbe9680",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "swift-secp256k1",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/21-DOT-DEV/swift-secp256k1",
+      "state" : {
+        "revision" : "8c62aba8a3011c9bcea232e5ee007fb0b34a15e2",
+        "version" : "0.21.1"
+      }
+    }
+  ],
+  "version" : 3
+}
